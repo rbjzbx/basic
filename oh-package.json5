@@ -8,7 +8,7 @@
 //  "dependencies": {}
 //}
 {
-  "name": "basic",
+  "name": "hmos_basic",
   "version": "1.0.0",
   "description": "basic基础库",
   "main": "Index.ets",
