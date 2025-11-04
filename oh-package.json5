@@ -1,0 +1,40 @@
+//{
+//  "name": "basic",
+//  "version": "1.0.0",
+//  "description": "Please describe the basic information.",
+//  "main": "Index.ets",
+//  "author": "",
+//  "license": "Apache-2.0",
+//  "dependencies": {}
+//}
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "basic基础库",
+  "main": "Index.ets",
+  "author": "sxw",
+  "license": "Apache-2.0",
+  "keywords": [
+    "harmonyos",
+    "utility",
+    "your-keywords"
+  ],
+  "repository": "https://github.com/rbjzbx/basic.git",
+  "homepage": "https://github.com/rbjzbx/basic",
+  "bugs": {
+    "url": "https://github.com/rbjzbx/basic/issues",
+    "email": "916269658@qq.com"
+  },
+  "engines": {
+    "harmonyos": ">=5.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "Index.ets",
+    "src/**/*",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ]
+}
