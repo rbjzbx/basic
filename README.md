@@ -5,10 +5,10 @@ basic基础库
 ## 安装
 
 使用 ohpm 安装：bash
-ohpm install @rbjzbx/hmos_basic
+ohpm install hmos_basic
 或
 bash
-ohpm i @rbjzbx/hmos_basic
+ohpm i hmos_basic
 ## 使用说明
 
 ### 基本使用
@@ -18,7 +18,7 @@ basic基础库提供了一系列基础工具函数和工具类，帮助开发者
 ### 示例代码
 typescript
 // 导入基础库
-import { 工具函数 } from '@rbjzbx/hmos_basic';
+import { 工具函数 } from 'hmos_basic';
 // 使用示例
 // 这里添加具体的使用示例代码
 ### 主要功能
